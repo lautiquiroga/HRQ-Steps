@@ -4,7 +4,7 @@ const steps = [
         section: 'Visión de Negocio',
         questions: [
             {
-                pregunta: '1. ¿Cuál es uno de los principios fundamentales para alinear la visión de recursos humanos con la estrategia de negocio de una empresa?',
+                pregunta: '¿Cuál es uno de los principios fundamentales para alinear la visión de recursos humanos con la estrategia de negocio de una empresa?',
                 options: [
                     { label: 'a', answer: 'Asegurarse de que todas las políticas de recursos humanos sean estrictamente cumplidas por los empleados.', value: 'Junior' },
                     { label: 'b', answer: 'Participar en reuniones interdepartamentales para discutir las metas y estrategias de la empresa.', value: 'Mid-Level' },
@@ -13,7 +13,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '2. Te han encargado la tarea de reducir la rotación de personal en un departamento crítico para la empresa. ¿Cuál sería tu primera acción?',
+                pregunta: 'Te han encargado la tarea de reducir la rotación de personal en un departamento crítico para la empresa. ¿Cuál sería tu primera acción?',
                 options: [
                     { label: 'a', answer: 'Revisar y actualizar las políticas de contratación y despido para asegurar el cumplimiento de las normas legales y de la empresa.', value: 'Junior' },
                     { label: 'b', answer: 'Analizar las causas de la rotación a través de encuestas de salida y entrevistas con empleados clave para entender sus preocupaciones.', value: 'Mid-Level' },
@@ -22,7 +22,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '3. Describe una ocasión en la que tuviste que tomar una decisión importante que afectaba a toda la empresa. ¿Qué factores consideraste y cuál fue el resultado?',
+                pregunta: 'Describe una ocasión en la que tuviste que tomar una decisión importante que afectaba a toda la empresa. ¿Qué factores consideraste y cuál fue el resultado?',
                 options: [
                     { label: 'a', answer: 'Consulté con el equipo de recursos humanos y seguí los procedimientos establecidos para tomar la decisión.', value: 'Junior' },
                     { label: 'b', answer: 'Analicé los datos históricos y actuales de la empresa para tomar una decisión basada en las tendencias y necesidades inmediatas.', value: 'Mid-Level' },
@@ -31,7 +31,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '4. Durante una revisión anual, te das cuenta de que la rotación de personal ha aumentado debido a la percepción de falta de oportunidades de crecimiento. ¿Cómo abordarías esta situación desde la perspectiva de recursos humanos?',
+                pregunta: 'Durante una revisión anual, te das cuenta de que la rotación de personal ha aumentado debido a la percepción de falta de oportunidades de crecimiento. ¿Cómo abordarías esta situación desde la perspectiva de recursos humanos?',
                 options: [
                     { label: 'a', answer: 'Realizar encuestas de satisfacción laboral para identificar las áreas de mejora y ajustar las políticas en consecuencia.', value: 'Junior' },
                     { label: 'b', answer: 'Organizar talleres de desarrollo profesional y sesiones de formación para todo el personal interesado.', value: 'Mid-Level' },
@@ -46,7 +46,7 @@ const steps = [
         section: 'Impacto Comunicacional',
         questions: [
             {
-                pregunta: '1. ¿Cuál es un principio clave en la comunicación efectiva que ayuda a influir en las percepciones y acciones de los demás?',
+                pregunta: '¿Cuál es un principio clave en la comunicación efectiva que ayuda a influir en las percepciones y acciones de los demás?',
                 options: [
                     { label: 'a', answer: 'Utilizar un lenguaje sencillo, pero técnico y especializado para asegurar manejo y conocimiento del tema.', value: 'Junior' },
                     { label: 'b', answer: 'Repetir el mensaje varias veces a través de diferentes medios para asegurar que todos lo comprendan.', value: 'Mid-Level' },
@@ -55,7 +55,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '2. Un nuevo procedimiento debe ser comunicado a todo el equipo. ¿Cuál es la mejor manera de asegurarse de que todos lo entiendan y lo implementen correctamente?',
+                pregunta: 'Un nuevo procedimiento debe ser comunicado a todo el equipo. ¿Cuál es la mejor manera de asegurarse de que todos lo entiendan y lo implementen correctamente?',
                 options: [
                     { label: 'a', answer: 'Enviar un correo electrónico detallado con todas las instrucciones para asegurar que todo quede por escrito.', value: 'Junior' },
                     { label: 'b', answer: 'Organizar una reunión informativa y enviar un seguimiento por correo electrónico con los puntos clave.', value: 'Mid-Level' },
@@ -64,7 +64,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '3. En una situación en la que lograste influir en la percepción de un equipo de trabajo mediante una comunicación efectiva. ¿Cuál de los siguientes estrategia utilizaste?',
+                pregunta: 'En una situación en la que lograste influir en la percepción de un equipo de trabajo mediante una comunicación efectiva. ¿Cuál de los siguientes estrategia utilizaste?',
                 options: [
                     { label: 'a', answer: 'Expliqué detalladamente la lógica detrás de mi propuesta para convencer al equipo.', value: 'Junior' },
                     { label: 'b', answer: 'Utilicé datos y estadísticas para respaldar mi argumento durante la presentación.', value: 'Mid-Level' },
@@ -73,7 +73,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '4. Durante una presentación importante, notas que algunos miembros de la audiencia parecen confundidos. ¿Cómo abordarías esta situación?',
+                pregunta: 'Durante una presentación importante, notas que algunos miembros de la audiencia parecen confundidos. ¿Cómo abordarías esta situación?',
                 options: [
                     { label: 'a', answer: 'Continuar con la presentación según lo planeado y abordar cualquier pregunta al final.', value: 'Junior' },
                     { label: 'b', answer: 'Hacer una pausa para resumir los puntos principales y verificar la comprensión de la audiencia.', value: 'Mid-Level' },
@@ -88,7 +88,7 @@ const steps = [
         section: 'Agilidad Responsiva',
         questions: [
             {
-                pregunta: '1. ¿Cuál de los siguientes enfoques es fundamental para desarrollar la agilidad responsiva en una organización?',
+                pregunta: '¿Cuál de los siguientes enfoques es fundamental para desarrollar la agilidad responsiva en una organización?',
                 options: [
                     { label: 'a', answer: 'Implementar procedimientos comprensivos para manejar situaciones en las que se tiene que actuar con agilidad.', value: 'Junior' },
                     { label: 'b', answer: 'Establecer objetivos a largo plazo y proceder con los cambios que estén alineados a la estrategia del negocio.', value: 'Mid-Level' },
@@ -97,7 +97,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '2. En una situación en la que el mercado cambia rápidamente, ¿cuál sería tu primera acción como profesional de recursos humanos para asegurar una respuesta ágil del equipo?',
+                pregunta: 'En una situación en la que el mercado cambia rápidamente, ¿cuál sería tu primera acción como profesional de recursos humanos para asegurar una respuesta ágil del equipo?',
                 options: [
                     { label: 'a', answer: 'Consultar y acordar con la alta dirección las acciones que se deben tomar.', value: 'Junior' },
                     { label: 'b', answer: 'Revisar y adaptar los procedimientos que se ven impactados por el cambio, comunicarlos y asegurar que todos lo sigan estrictamente.', value: 'Mid-Level' },
@@ -106,7 +106,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '3. Describe una situación en la que tu equipo tuvo que adaptarse rápidamente a un cambio inesperado. ¿Cómo manejaste el proceso?',
+                pregunta: 'Describe una situación en la que tu equipo tuvo que adaptarse rápidamente a un cambio inesperado. ¿Cómo manejaste el proceso?',
                 options: [
                     { label: 'a', answer: 'Establecí los parámetros de trabajo ante el nuevo cambio y me aseguré que todos los miembros del equipo los siguieran sin desviarse.', value: 'Junior' },
                     { label: 'b', answer: 'Consulté con cada departamento por separado antes de definir las acciones específicas a seguir.', value: 'Mid-Level' },
@@ -115,7 +115,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '4. ¿Cuál es el mayor obstáculo para implementar una cultura de agilidad responsiva en una organización?',
+                pregunta: '¿Cuál es el mayor obstáculo para implementar una cultura de agilidad responsiva en una organización?',
                 options: [
                     { label: 'a', answer: 'La resistencia al cambio por parte de los empleados de nivel medio.', value: 'Junior' },
                     { label: 'b', answer: 'La falta de liderazgo adecuado para dirigir el cambio.', value: 'Mid-Level' },
@@ -130,7 +130,7 @@ const steps = [
         section: 'Negociación y Persuasión',
         questions: [
             {
-                pregunta: '1. ¿Cuál de los siguientes principios es más efectivo para lograr una negociación exitosa en recursos humanos?',
+                pregunta: '¿Cuál de los siguientes principios es más efectivo para lograr una negociación exitosa en recursos humanos?',
                 options: [
                     { label: 'a', answer: 'Centrarse en las posiciones de ambas partes para encontrar un compromiso.', value: 'Junior' },
                     { label: 'b', answer: 'Insistir en que la otra parte ceda primero como señal de buena fe.', value: 'Mid-Level' },
@@ -139,7 +139,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '2. Durante una negociación salarial con un empleado clave, ¿cuál sería tu enfoque para llegar a un acuerdo beneficioso para ambas partes?',
+                pregunta: 'Durante una negociación salarial con un empleado clave, ¿cuál sería tu enfoque para llegar a un acuerdo beneficioso para ambas partes?',
                 options: [
                     { label: 'a', answer: 'Demostrar buena voluntad ofreciendo un pequeño aumento de inmediato.', value: 'Junior' },
                     { label: 'b', answer: 'Escuchar las demandas del empleado y buscar compromisos a largo plazo que puedan beneficiar a ambos.', value: 'Mid-Level' },
@@ -148,7 +148,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '3. ¿Qué acción utilizaste para lograr persuadir a un equipo resistente a adoptar un nuevo proceso?',
+                pregunta: '¿Qué acción utilizaste para lograr persuadir a un equipo resistente a adoptar un nuevo proceso?',
                 options: [
                     { label: 'a', answer: 'Presentar los beneficios del nuevo proceso en una reunión general, enfatizando la obligatoriedad de su implementación.', value: 'Junior' },
                     { label: 'b', answer: 'Escuchar las preocupaciones del equipo, adaptar el proceso para abordar sus inquietudes y ofrecer incentivos por su adopción.', value: 'Mid-Level' },
@@ -157,7 +157,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '4. En tu experiencia, ¿cuál es la mejor estrategia para persuadir a la alta dirección de invertir en un nuevo programa de desarrollo de talento?',
+                pregunta: 'En tu experiencia, ¿cuál es la mejor estrategia para persuadir a la alta dirección de invertir en un nuevo programa de desarrollo de talento?',
                 options: [
                     { label: 'a', answer: 'Presentar un análisis detallado de costos y beneficios que demuestre el retorno de inversión esperado.', value: 'Junior' },
                     { label: 'b', answer: 'Mostrar ejemplos de programas similares que la competencia ha implementado con éxito.', value: 'Mid-Level' },
@@ -172,7 +172,7 @@ const steps = [
         section: 'Pensamiento Analítico',
         questions: [
             {
-                pregunta: '1. ¿Cuál de los siguientes métodos es más adecuado para analizar las tendencias de rotación de personal en una organización?',
+                pregunta: '¿Cuál de los siguientes métodos es más adecuado para analizar las tendencias de rotación de personal en una organización?',
                 options: [
                     { label: 'a', answer: 'Revisar las tasas de rotación anual de los últimos tres años para entender las tendencias de rotación por mes.', value: 'Junior' },
                     { label: 'b', answer: 'Revisar encuestas de salida y analizar los datos recopilados para identificar patrones en las razones de salida.', value: 'Mid-Level' },
@@ -181,7 +181,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '2. Tu empresa ha notado un aumento en la rotación de personal en los últimos seis meses. ¿Qué acción tomarías primero para abordar esta tendencia?',
+                pregunta: 'Tu empresa ha notado un aumento en la rotación de personal en los últimos seis meses. ¿Qué acción tomarías primero para abordar esta tendencia?',
                 options: [
                     { label: 'a', answer: 'Realizar reuniones de retroalimentación con el personal para entender por qué van los colaboradores.', value: 'Junior' },
                     { label: 'b', answer: 'Analizar los datos demográficos, de desempeño y razones de salida de los empleados que se han ido para identificar posibles patrones.', value: 'Mid-Level' },
@@ -190,7 +190,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '3. Describe cómo abordarías un problema de baja satisfacción laboral identificado en una reciente encuesta interna.',
+                pregunta: 'Describe cómo abordarías un problema de baja satisfacción laboral identificado en una reciente encuesta interna.',
                 options: [
                     { label: 'a', answer: 'Realizar talleres de discusión para que los empleados expresen sus preocupaciones abiertamente.', value: 'Junior' },
                     { label: 'b', answer: 'Crear un plan de acción basado en las áreas de menor satisfacción identificadas en la encuesta.', value: 'Mid-Level' },
@@ -199,7 +199,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '4. Ante la necesidad de reducir costos en la empresa, ¿cómo priorizarías las decisiones basadas en análisis de datos?',
+                pregunta: 'Ante la necesidad de reducir costos en la empresa, ¿cómo priorizarías las decisiones basadas en análisis de datos?',
                 options: [
                     { label: 'a', answer: 'Revisar los informes financieros mensuales y cortar los gastos más altos de manera directa.', value: 'Junior' },
                     { label: 'b', answer: 'Realizar un análisis de costo-beneficio para identificar las áreas donde se puede ahorrar sin afectar la productividad.', value: 'Mid-Level' },
@@ -214,7 +214,7 @@ const steps = [
         section: 'Conexión Humana',
         questions: [
             {
-                pregunta: '1. ¿Cuál de los siguientes principios es fundamental para establecer una conexión humana efectiva en el lugar de trabajo?',
+                pregunta: '¿Cuál de los siguientes principios es fundamental para establecer una conexión humana efectiva en el lugar de trabajo?',
                 options: [
                     { label: 'a', answer: 'Escucha activa y retroalimentación constante.', value: 'Junior' },
                     { label: 'b', answer: 'Desarrollo de habilidades interpersonales para promover la colaboración y el trabajo en equipo.', value: 'Mid-Level' },
@@ -223,7 +223,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '2. En un equipo con conflictos internos, ¿cuál sería tu enfoque para restablecer la conexión humana y mejorar la colaboración?',
+                pregunta: 'En un equipo con conflictos internos, ¿cuál sería tu enfoque para restablecer la conexión humana y mejorar la colaboración?',
                 options: [
                     { label: 'a', answer: 'Implementar reuniones periódicas de equipo para discutir problemas y buscar soluciones juntos.', value: 'Junior' },
                     { label: 'b', answer: 'Fomentar actividades de integración de equipo que promuevan la comunicación y la confianza.', value: 'Mid-Level' },
@@ -232,7 +232,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '3. ¿Cuál de estas medidas describe mejor tus acciones ante una situación en la que hayas tenido que fortalecer la conexión humana dentro de tu equipo?',
+                pregunta: '¿Cuál de estas medidas describe mejor tus acciones ante una situación en la que hayas tenido que fortalecer la conexión humana dentro de tu equipo?',
                 options: [
                     { label: 'a', answer: 'Organicé una serie de reuniones para discutir y resolver problemas específicos del equipo.', value: 'Junior' },
                     { label: 'b', answer: 'Implementé un programa de mentoría para fomentar relaciones de apoyo entre los miembros del equipo.', value: 'Mid-Level' },
@@ -241,7 +241,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '4. Si te encuentras con un conflicto entre dos miembros de tu equipo, ¿cómo abordarías la situación para garantizar una resolución positiva y la reestablecimiento de una conexión humana?',
+                pregunta: 'Si te encuentras con un conflicto entre dos miembros de tu equipo, ¿cómo abordarías la situación para garantizar una resolución positiva y la reestablecimiento de una conexión humana?',
                 options: [
                     { label: 'a', answer: 'Facilitar una reunión para que ambas partes expresen sus preocupaciones y lleguen a un entendimiento común.', value: 'Junior' },
                     { label: 'b', answer: 'Proponer actividades conjuntas que fortalezcan la cooperación y la empatía entre los involucrados.', value: 'Mid-Level' },
@@ -256,7 +256,7 @@ const steps = [
         section: 'Comportamiento Ético',
         questions: [
             {
-                pregunta: '1. ¿Cuál de los siguientes principios es fundamental para el comportamiento ético en el ámbito de Recursos Humanos?',
+                pregunta: '¿Cuál de los siguientes principios es fundamental para el comportamiento ético en el ámbito de Recursos Humanos?',
                 options: [
                     { label: 'a', answer: 'Confidencialidad de la información de los empleados.', value: 'Junior' },
                     { label: 'b', answer: 'Transparencia en la toma de decisiones y en las comunicaciones.', value: 'Mid-Level' },
@@ -265,7 +265,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '2. Estás liderando un proyecto de reestructuración organizacional. ¿Cuál es la mejor manera de asegurarte de que el proceso sea ético?',
+                pregunta: 'Estás liderando un proyecto de reestructuración organizacional. ¿Cuál es la mejor manera de asegurarte de que el proceso sea ético?',
                 options: [
                     { label: 'a', answer: 'Comunicar todos los cambios de manera clara y directa a los empleados afectados.', value: 'Junior' },
                     { label: 'b', answer: 'Asegurarse de que las decisiones sean justas y basadas en criterios objetivos y verificables.', value: 'Mid-Level' },
@@ -274,7 +274,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '3. Describe una situación en la que tuviste que tomar una decisión difícil que involucraba un dilema ético en tu lugar de trabajo. ¿Cómo manejaste la situación?',
+                pregunta: 'Describe una situación en la que tuviste que tomar una decisión difícil que involucraba un dilema ético en tu lugar de trabajo. ¿Cómo manejaste la situación?',
                 options: [
                     { label: 'a', answer: 'Consulté con mi supervisor y otros colegas para asegurarme de que mi decisión cumpliera con las políticas de la empresa.', value: 'Junior' },
                     { label: 'b', answer: 'Consideré las implicaciones legales y las posibles consecuencias antes de tomar una decisión.', value: 'Mid-Level' },
@@ -283,7 +283,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '4. ¿Cómo evaluarías el éxito de las iniciativas de ética dentro de tu organización?',
+                pregunta: '¿Cómo evaluarías el éxito de las iniciativas de ética dentro de tu organización?',
                 options: [
                     { label: 'a', answer: 'Revisando que las políticas y procedimientos implementados para asegurar que cumplen con los estándares éticos básicos.', value: 'Junior' },
                     { label: 'b', answer: 'Analizando los resultados de encuestas anónimas de empleados sobre su percepción del comportamiento ético en la empresa.', value: 'Mid-Level' },
@@ -298,7 +298,7 @@ const steps = [
         section: 'Culture-Builder',
         questions: [
             {
-                pregunta: '1. ¿Cuál de las siguientes prácticas es más efectiva para fortalecer la cultura organizacional en una empresa?',
+                pregunta: '¿Cuál de las siguientes prácticas es más efectiva para fortalecer la cultura organizacional en una empresa?',
                 options: [
                     { label: 'a', answer: 'Organizar actividades de forma periódica para fomentar la interacción entre los empleados.', value: 'Junior' },
                     { label: 'b', answer: 'Implementar un programa de reconocimiento y recompensas basado en los valores de la empresa.', value: 'Mid-Level' },
@@ -307,7 +307,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '2. Un equipo muestra signos de desalineación con los valores culturales de la organización. ¿Cuál es la mejor estrategia para abordar esta situación?',
+                pregunta: 'Un equipo muestra signos de desalineación con los valores culturales de la organización. ¿Cuál es la mejor estrategia para abordar esta situación?',
                 options: [
                     { label: 'a', answer: 'Reunirse con el equipo para discutir los valores y su importancia, pidiendo sugerencias sobre cómo pueden alinearse mejor.', value: 'Junior' },
                     { label: 'b', answer: 'Organizar talleres de formación sobre la cultura organizacional y sus valores.', value: 'Mid-Level' },
@@ -316,7 +316,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '3. ¿Cuál de estas acciones describe mejor una situación en la que has tenido que reforzar los valores culturales en un equipo?',
+                pregunta: '¿Cuál de estas acciones describe mejor una situación en la que has tenido que reforzar los valores culturales en un equipo?',
                 options: [
                     { label: 'a', answer: 'Hablé con el equipo sobre la importancia de los valores y propuse actividades de integración.', value: 'Junior' },
                     { label: 'b', answer: 'Coordiné sesiones de retroalimentación y talleres sobre los valores culturales de la organización.', value: 'Mid-Level' },
@@ -325,7 +325,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '4. En un proceso de integración de nuevos empleados, ¿cuál es la mejor manera de asegurar que se alineen con la cultura organizacional?',
+                pregunta: 'En un proceso de integración de nuevos empleados, ¿cuál es la mejor manera de asegurar que se alineen con la cultura organizacional?',
                 options: [
                     { label: 'a', answer: 'Proporcionarles un manual comprensivo con los valores y normas de la empresa.', value: 'Junior' },
                     { label: 'b', answer: 'Ofrecer sesiones de inducción y formación específicas sobre la cultura organizacional.', value: 'Mid-Level' },
@@ -340,7 +340,7 @@ const steps = [
         section: 'Juicio Ejecutivo',
         questions: [
             {
-                pregunta: '1. ¿Cuál de las siguientes estrategias es más efectiva para mejorar la capacidad de juicio ejecutivo en situaciones de alta incertidumbre?',
+                pregunta: '¿Cuál de las siguientes estrategias es más efectiva para mejorar la capacidad de juicio ejecutivo en situaciones de alta incertidumbre?',
                 options: [
                     { label: 'a', answer: 'Realizar análisis de datos históricos para prever posibles escenarios futuros.', value: 'Junior' },
                     { label: 'b', answer: 'Implementar sesiones regulares de toma de decisiones en equipo para fomentar el pensamiento crítico colectivo.', value: 'Mid-Level' },
@@ -349,7 +349,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '2. En un escenario donde la empresa enfrenta una crisis reputacional inesperada, ¿cuál sería la mejor manera de demostrar juicio ejecutivo?',
+                pregunta: 'En un escenario donde la empresa enfrenta una crisis reputacional inesperada, ¿cuál sería la mejor manera de demostrar juicio ejecutivo?',
                 options: [
                     { label: 'a', answer: 'Reunir al equipo de comunicación para redactar un comunicado de prensa inmediato que aborde la crisis.', value: 'Junior' },
                     { label: 'b', answer: 'Coordinar una reunión con los principales grupos de interés para evaluar el impacto y definir un plan de acción conjunto.', value: 'Mid-Level' },
@@ -358,7 +358,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '3. ¿Cuál de estos enfoques describe mejor una situación en la que hayas utilizado tu juicio ejecutivo para resolver un problema complejo?',
+                pregunta: '¿Cuál de estos enfoques describe mejor una situación en la que hayas utilizado tu juicio ejecutivo para resolver un problema complejo?',
                 options: [
                     { label: 'a', answer: 'Consultar con supervisores para obtener orientación antes de tomar una decisión importante.', value: 'Junior' },
                     { label: 'b', answer: 'Reunir un grupo de tus pares para generar múltiples perspectivas antes de decidir.', value: 'Mid-Level' },
@@ -367,7 +367,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '4. En una situación donde hay múltiples soluciones posibles a un problema organizacional complejo, ¿cuál es el mejor enfoque para seleccionar la solución adecuada?',
+                pregunta: 'En una situación donde hay múltiples soluciones posibles a un problema organizacional complejo, ¿cuál es el mejor enfoque para seleccionar la solución adecuada?',
                 options: [
                     { label: 'a', answer: 'Optar por la solución más rápida y fácil de implementar para minimizar el tiempo de respuesta.', value: 'Junior' },
                     { label: 'b', answer: 'Seleccionar la solución que tenga el mayor consenso entre el equipo para asegurar apoyo interno.', value: 'Mid-Level' },
@@ -382,7 +382,7 @@ const steps = [
         section: 'Responsabilidad (Accountability)',
         questions: [
             {
-                pregunta: '1. ¿Cuál de las siguientes afirmaciones define mejor el principio de responsabilidad en un entorno organizacional?',
+                pregunta: '¿Cuál de las siguientes afirmaciones define mejor el principio de responsabilidad en un entorno organizacional?',
                 options: [
                     { label: 'a', answer: 'Cumplir con los plazos establecidos y entregar los resultados esperados, sin importar los obstáculos.', value: 'Junior' },
                     { label: 'b', answer: 'Asumir la responsabilidad por los errores cometidos y trabajar proactivamente para corregirlos y prevenir futuros errores.', value: 'Mid-Level' },
@@ -391,7 +391,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '2. En un proyecto importante, se descubre un error significativo que podría retrasar su entrega. ¿Cuál es la mejor manera de manejar esta situación desde una perspectiva de responsabilidad?',
+                pregunta: 'En un proyecto importante, se descubre un error significativo que podría retrasar su entrega. ¿Cuál es la mejor manera de manejar esta situación desde una perspectiva de responsabilidad?',
                 options: [
                     { label: 'a', answer: 'Informar inmediatamente al Gerente sobre el error y seguir sus instrucciones sobre cómo proceder.', value: 'Junior' },
                     { label: 'b', answer: 'Evaluar la causa del error, informar al equipo y proponer un plan de acción para corregirlo.', value: 'Mid-Level' },
@@ -400,7 +400,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '3. Describe una situación en la que hayas tenido que asumir la responsabilidad total por un proyecto fallido. ¿Cómo manejaste la situación?',
+                pregunta: 'Describe una situación en la que hayas tenido que asumir la responsabilidad total por un proyecto fallido. ¿Cómo manejaste la situación?',
                 options: [
                     { label: 'a', answer: 'Expliqué a mi jefe las razones del fracaso y seguí sus indicaciones para mejorar en futuros proyectos.', value: 'Junior' },
                     { label: 'b', answer: 'Asumí la responsabilidad ante mi equipo y trabajé con ellos para aprender de los errores y mejorar.', value: 'Mid-Level' },
@@ -409,7 +409,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '4. ¿Cuál es el mayor desafío para fomentar una cultura de responsabilidad en una organización?',
+                pregunta: '¿Cuál es el mayor desafío para fomentar una cultura de responsabilidad en una organización?',
                 options: [
                     { label: 'a', answer: 'Asegurar que todos los empleados comprendan claramente sus responsabilidades y expectativas.', value: 'Junior' },
                     { label: 'b', answer: 'Crear sistemas efectivos de seguimiento y retroalimentación que midan el desempeño individual y del equipo.', value: 'Mid-Level' },
@@ -424,7 +424,7 @@ const steps = [
         section: 'Gestión de Proyectos',
         questions: [
             {
-                pregunta: '1. ¿Cuál de los siguientes principios es fundamental en la gestión de proyectos para asegurar el cumplimiento de los plazos y presupuestos establecidos?',
+                pregunta: '¿Cuál de los siguientes principios es fundamental en la gestión de proyectos para asegurar el cumplimiento de los plazos y presupuestos establecidos?',
                 options: [
                     { label: 'a', answer: 'Uso de herramientas básicas de seguimiento de tareas, como listas y hojas de cálculo.', value: 'Junior' },
                     { label: 'b', answer: 'Establecimiento de una estructura de desglose del trabajo bien definida.', value: 'Mid-Level' },
@@ -433,7 +433,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '2. ¿Cuál sería tu enfoque para gestionar un proyecto con un plazo ajustado y múltiples partes interesadas con expectativas diferentes?',
+                pregunta: '¿Cuál sería tu enfoque para gestionar un proyecto con un plazo ajustado y múltiples partes interesadas con expectativas diferentes?',
                 options: [
                     { label: 'a', answer: 'Asegurarse de cumplir con todas las tareas asignadas en orden secuencial, priorizando la finalización rápida.', value: 'Junior' },
                     { label: 'b', answer: 'Asignar tareas a diferentes miembros del equipo basándose en sus fortalezas y realizar reuniones regulares de actualización.', value: 'Mid-Level' },
@@ -442,7 +442,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '3. Describe una situación en la que fue necesario que ajustar el alcance del proyecto debido a restricciones imprevistas de tiempo o presupuesto. ¿Cuál fue tu método?',
+                pregunta: 'Describe una situación en la que fue necesario que ajustar el alcance del proyecto debido a restricciones imprevistas de tiempo o presupuesto. ¿Cuál fue tu método?',
                 options: [
                     { label: 'a', answer: 'Solicitar extensiones de plazo y presupuestos adicionales a la gerencia.', value: 'Junior' },
                     { label: 'b', answer: 'Revisar y priorizar las tareas más críticas, eliminando aquellas menos importantes para ajustarse a las restricciones.', value: 'Mid-Level' },
@@ -451,7 +451,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '4. En un proyecto, descubres que un miembro del equipo no está cumpliendo con sus responsabilidades debido a problemas personales. ¿Cómo manejarías esta situación?',
+                pregunta: 'En un proyecto, descubres que un miembro del equipo no está cumpliendo con sus responsabilidades debido a problemas personales. ¿Cómo manejarías esta situación?',
                 options: [
                     { label: 'a', answer: 'Reasignar las tareas de ese miembro a otros miembros del equipo y comunicar el problema al supervisor directo.', value: 'Junior' },
                     { label: 'b', answer: 'Hablar con el miembro del equipo para entender su situación y ofrecer apoyo, redistribuyendo temporalmente sus tareas si es necesario.', value: 'Mid-Level' },
@@ -466,7 +466,7 @@ const steps = [
         section: 'Innovación',
         questions: [
             {
-                pregunta: '1. ¿Cuál de los siguientes principios es más esencial para fomentar la innovación dentro de una organización de recursos humanos?',
+                pregunta: '¿Cuál de los siguientes principios es más esencial para fomentar la innovación dentro de una organización de recursos humanos?',
                 options: [
                     { label: 'a', answer: 'Establecer una cultura de retroalimentación continua.', value: 'Junior' },
                     { label: 'b', answer: 'Promover una mentalidad de crecimiento y aprendizaje constante.', value: 'Mid-Level' },
@@ -475,7 +475,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '2. Al introducir un nuevo método para mejorar la eficiencia en la gestión del talento, ¿Cuál sería tu enfoque inicial?',
+                pregunta: 'Al introducir un nuevo método para mejorar la eficiencia en la gestión del talento, ¿Cuál sería tu enfoque inicial?',
                 options: [
                     { label: 'a', answer: 'Implementar el método de inmediato y evaluar los resultados sobre la marcha.', value: 'Junior' },
                     { label: 'b', answer: 'Realizar una prueba piloto antes de una implementación completa.', value: 'Mid-Level' },
@@ -484,7 +484,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '3. Describe una situación en la que lideraste un proyecto innovador en tu organización. ¿Cuál fue tu principal contribución?',
+                pregunta: 'Describe una situación en la que lideraste un proyecto innovador en tu organización. ¿Cuál fue tu principal contribución?',
                 options: [
                     { label: 'a', answer: 'Apoyé en la implementación del proyecto asegurándome de seguir el plan establecido.', value: 'Junior' },
                     { label: 'b', answer: 'Coordine las actividades del equipo y aseguré el cumplimiento de los plazos.', value: 'Mid-Level' },
@@ -493,7 +493,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '4. ¿Cuál es la mejor manera de fomentar la innovación continua dentro de un equipo de recursos humanos?',
+                pregunta: '¿Cuál es la mejor manera de fomentar la innovación continua dentro de un equipo de recursos humanos?',
                 options: [
                     { label: 'a', answer: 'Organizar sesiones regulares de lluvia de ideas y talleres creativos.', value: 'Junior' },
                     { label: 'b', answer: 'Implementar un sistema de reconocimiento y recompensas para ideas innovadoras.', value: 'Mid-Level' },
@@ -508,7 +508,7 @@ const steps = [
         section: 'Gestión de Presupuestos',
         questions: [
             {
-                pregunta: '1. ¿Cuál de los siguientes enunciados describe mejor el principio de "análisis de desviaciones presupuestarias" en la gestión de presupuestos?',
+                pregunta: '¿Cuál de los siguientes enunciados describe mejor el principio de "análisis de desviaciones presupuestarias" en la gestión de presupuestos?',
                 options: [
                     { label: 'a', answer: 'El análisis de desviaciones presupuestarias implica comparar los gastos reales con el presupuesto inicial para identificar áreas donde los costos se han desviado y tomar medidas correctivas.', value: 'Junior' },
                     { label: 'b', answer: 'El análisis de desviaciones presupuestarias se centra en identificar solo las desviaciones negativas para ajustar los presupuestos futuros de manera preventiva.', value: 'Mid-Level' },
@@ -517,7 +517,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '2. ¿Cuál es la mejor manera de asegurar que los departamentos dentro de una organización sigan el presupuesto asignado?',
+                pregunta: '¿Cuál es la mejor manera de asegurar que los departamentos dentro de una organización sigan el presupuesto asignado?',
                 options: [
                     { label: 'a', answer: 'Revisar los informes financieros mensualmente y discutir los hallazgos con los líderes de departamento para tomar medidas correctivas cuando sea necesario.', value: 'Junior' },
                     { label: 'b', answer: 'Implementar un sistema de seguimiento de gastos en tiempo real y realizar revisiones trimestrales con los departamentos para ajustar los presupuestos según las necesidades cambiantes.', value: 'Mid-Level' },
@@ -526,7 +526,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '3. Cuando tuvo que enfrentarse a la necesidad de ajustar el presupuesto a mitad del año fiscal. ¿Cuál fue su enfoque principal?',
+                pregunta: 'Cuando tuvo que enfrentarse a la necesidad de ajustar el presupuesto a mitad del año fiscal. ¿Cuál fue su enfoque principal?',
                 options: [
                     { label: 'a', answer: 'Reducir los gastos no esenciales de manera inmediata.', value: 'Junior' },
                     { label: 'b', answer: 'Reasignar fondos entre diferentes departamentos para equilibrar el presupuesto.', value: 'Mid-Level' },
@@ -535,7 +535,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '4. ¿Cómo aseguras que los recursos financieros se utilicen de manera eficiente dentro de tu equipo?',
+                pregunta: '¿Cómo aseguras que los recursos financieros se utilicen de manera eficiente dentro de tu equipo?',
                 options: [
                     { label: 'a', answer: 'Revisando regularmente los informes de gastos.', value: 'Junior' },
                     { label: 'b', answer: 'Implementando controles internos para monitorear el uso de los recursos.', value: 'Mid-Level' },
@@ -550,7 +550,7 @@ const steps = [
         section: 'Relaciones Laborales',
         questions: [
             {
-                pregunta: '1. ¿Cuál es uno de los principios fundamentales en la gestión de relaciones laborales que ayuda a asegurar un trato justo, el cumplimiento de las leyes y regulaciones laborales?',
+                pregunta: '¿Cuál es uno de los principios fundamentales en la gestión de relaciones laborales que ayuda a asegurar un trato justo, el cumplimiento de las leyes y regulaciones laborales?',
                 options: [
                     { label: 'a', answer: 'Asegurar que todas las preguntas de los empleados sean respondidas a tiempo y de acuerdo a las leyes y regulaciones.', value: 'Junior' },
                     { label: 'b', answer: 'Facilitar la comunicación entre empleados y supervisores para resolver disputas.', value: 'Mid-Level' },
@@ -559,7 +559,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '2. Un empleado se queja de que su supervisor no está cumpliendo con las políticas de la empresa en cuanto a horarios flexibles. ¿Cuál sería tu primera acción para abordar esta situación?',
+                pregunta: 'Un empleado se queja de que su supervisor no está cumpliendo con las políticas de la empresa en cuanto a horarios flexibles. ¿Cuál sería tu primera acción para abordar esta situación?',
                 options: [
                     { label: 'a', answer: 'Escuchar al empleado y sugerirle que hable directamente con el supervisor.', value: 'Junior' },
                     { label: 'b', answer: 'Facilitar una reunión entre el empleado y el supervisor para discutir la queja.', value: 'Mid-Level' },
@@ -568,7 +568,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '3. Describe una experiencia en la que tuviste que intervenir en un conflicto laboral importante. ¿Cuál fue tu enfoque principal?',
+                pregunta: 'Describe una experiencia en la que tuviste que intervenir en un conflicto laboral importante. ¿Cuál fue tu enfoque principal?',
                 options: [
                     { label: 'a', answer: 'Escuchar a las partes involucradas y ofrecer apoyo emocional.', value: 'Junior' },
                     { label: 'b', answer: 'Identificar los problemas subyacentes y proponer soluciones inmediatas.', value: 'Mid-Level' },
@@ -577,7 +577,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '4. ¿Cómo garantizarías que las relaciones laborales en tu organización se mantengan positivas y productivas?',
+                pregunta: '¿Cómo garantizarías que las relaciones laborales en tu organización se mantengan positivas y productivas?',
                 options: [
                     { label: 'a', answer: 'Fomentando un ambiente de trabajo respetuoso y participando en actividades de equipo.', value: 'Junior' },
                     { label: 'b', answer: 'Implementando mecanismos para la resolución de conflictos y facilitando la comunicación abierta.', value: 'Mid-Level' },
@@ -592,7 +592,7 @@ const steps = [
         section: 'Adquisición y Gestión de Talento',
         questions: [
             {
-                pregunta: '1. ¿Cuál es el principio fundamental en la adquisición y gestión del talento que garantiza la atracción y retención de talento de primer nivel en una organización?',
+                pregunta: '¿Cuál es el principio fundamental en la adquisición y gestión del talento que garantiza la atracción y retención de talento de primer nivel en una organización?',
                 options: [
                     { label: 'a', answer: 'Participación activa en ferias de empleo y bolsas de empleo relevantes al negocio.', value: 'Junior' },
                     { label: 'b', answer: 'Colaborar con universidades para identificar nuevos talentos.', value: 'Mid-Level' },
@@ -601,7 +601,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '2. ¿Cómo abordarías la necesidad de atraer talento especializado en un mercado altamente competitivo?',
+                pregunta: '¿Cómo abordarías la necesidad de atraer talento especializado en un mercado altamente competitivo?',
                 options: [
                     { label: 'a', answer: 'Publicando masivamente en los principales portales de empleo relevantes a la industria con una descripción de puesto altamente atractiva y orientada al mercado que buscamos.', value: 'Junior' },
                     { label: 'b', answer: 'Organizando y participando en ferias de empleo específicas de la industria y contactando con universidades y otras instituciones académicas con carreras afines al puesto solicitado.', value: 'Mid-Level' },
@@ -610,7 +610,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '3. ¿Cuál fue su enfoque principal cuando tuvo que integrar a un grupo grande de nuevos empleados de manera efectiva?',
+                pregunta: '¿Cuál fue su enfoque principal cuando tuvo que integrar a un grupo grande de nuevos empleados de manera efectiva?',
                 options: [
                     { label: 'a', answer: 'Realizar una orientación sobre la historia, visión, misión, estructura, políticas y procedimientos de la empresa.', value: 'Junior' },
                     { label: 'b', answer: 'Organizar sesiones de bienvenida y reuniones informativas con diferentes departamentos.', value: 'Mid-Level' },
@@ -619,7 +619,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '4. ¿Cómo evalúas la efectividad de tus estrategias de adquisición y gestión del talento?',
+                pregunta: '¿Cómo evalúas la efectividad de tus estrategias de adquisición y gestión del talento?',
                 options: [
                     { label: 'a', answer: 'Monitoreando el número de vacantes cubiertas cada mes.', value: 'Junior' },
                     { label: 'b', answer: 'Analizando la cantidad de candidatos calificados que aplican a las vacantes.', value: 'Mid-Level' },
@@ -634,7 +634,7 @@ const steps = [
         section: 'Administración del Desempeño',
         questions: [
             {
-                pregunta: '1. ¿Cuál de los siguientes es un principio fundamental en la administración del desempeño que garantiza el éxito tanto individual como organizacional?',
+                pregunta: '¿Cuál de los siguientes es un principio fundamental en la administración del desempeño que garantiza el éxito tanto individual como organizacional?',
                 options: [
                     { label: 'a', answer: 'Establecer objetivos de desempeño en colaboración con los empleados y revisarlos regularmente.', value: 'Junior' },
                     { label: 'b', answer: 'Ofrecer retroalimentación específica y orientada al desarrollo durante las revisiones de desempeño.', value: 'Mid-Level' },
@@ -643,7 +643,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '2. ¿Cómo abordarías la situación en la que un empleado no está cumpliendo con las expectativas de desempeño?',
+                pregunta: '¿Cómo abordarías la situación en la que un empleado no está cumpliendo con las expectativas de desempeño?',
                 options: [
                     { label: 'a', answer: 'Proporcionar retroalimentación regular sobre el progreso hacia los objetivos y establecer un plan de mejora del desempeño.', value: 'Junior' },
                     { label: 'b', answer: 'Definir claramente las expectativas de desempeño y ofrecer retroalimentación específica y orientada al desarrollo.', value: 'Mid-Level' },
@@ -652,7 +652,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '3. Describe una situación en la que tuviste que mejorar significativamente el desempeño de un equipo. ¿Cuál fue tu enfoque principal?',
+                pregunta: 'Describe una situación en la que tuviste que mejorar significativamente el desempeño de un equipo. ¿Cuál fue tu enfoque principal?',
                 options: [
                     { label: 'a', answer: 'Proporcionar retroalimentación regular y establecer objetivos claros de desempeño.', value: 'Junior' },
                     { label: 'b', answer: 'Realizar revisiones de desempeño de manera regular y estructurada.', value: 'Mid-Level' },
@@ -661,7 +661,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '4. ¿Cómo aseguras que las evaluaciones de desempeño sean justas y efectivas dentro de tu equipo?',
+                pregunta: '¿Cómo aseguras que las evaluaciones de desempeño sean justas y efectivas dentro de tu equipo?',
                 options: [
                     { label: 'a', answer: 'Implementando planes de mejora del desempeño basados en evaluaciones regulares.', value: 'Junior' },
                     { label: 'b', answer: 'Ofreciendo retroalimentación específica y orientada al desarrollo durante las evaluaciones.', value: 'Mid-Level' },
@@ -676,7 +676,7 @@ const steps = [
         section: 'Aprendizaje y Desarrollo',
         questions: [
             {
-                pregunta: '1. ¿Cuál es la principal función de la formación y desarrollo en las organizaciones?',
+                pregunta: '¿Cuál es la principal función de la formación y desarrollo en las organizaciones?',
                 options: [
                     { label: 'a', answer: 'Motivar a los colaboradores.', value: 'Junior' },
                     { label: 'b', answer: 'Mejorar el desempeño.', value: 'Mid-Level' },
@@ -685,7 +685,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '2. ¿Cómo sabes que los programas de formación y desarrollo han tenido éxito?',
+                pregunta: '¿Cómo sabes que los programas de formación y desarrollo han tenido éxito?',
                 options: [
                     { label: 'a', answer: 'Los facilitadores proporcionan retroalimentación positiva sobre el compromiso y la participación.', value: 'Junior' },
                     { label: 'b', answer: 'Los participantes proporcionan retroalimentación positiva sobre la calidad de la capacitación.', value: 'Mid-Level' },
@@ -694,7 +694,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '3. ¿Cuál fue tu enfoque principal la última vez que tuviste que diseñar un nuevo programa de formación para mejorar una habilidad crítica en tu equipo?',
+                pregunta: '¿Cuál fue tu enfoque principal la última vez que tuviste que diseñar un nuevo programa de formación para mejorar una habilidad crítica en tu equipo?',
                 options: [
                     { label: 'a', answer: 'Consultar con los facilitadores para aprovechar al máximo su experiencia y conocimiento.', value: 'Junior' },
                     { label: 'b', answer: 'Identificar las necesidades de formación de los colaboradores para contribuir en el diseño del programa.', value: 'Mid-Level' },
@@ -703,7 +703,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '4. ¿Cuál es el mejor momento para introducir un nuevo programa de formación y desarrollo?',
+                pregunta: '¿Cuál es el mejor momento para introducir un nuevo programa de formación y desarrollo?',
                 options: [
                     { label: 'a', answer: 'Cuando se ha identificado un problema de desempeño que se necesita mejorar.', value: 'Junior' },
                     { label: 'b', answer: 'Cuando se ha identificado una oportunidad de crecimiento.', value: 'Mid-Level' },
@@ -718,7 +718,7 @@ const steps = [
         section: 'Compensación y Beneficios',
         questions: [
             {
-                pregunta: '1. ¿Cuál es el principio fundamental en la gestión de compensación y beneficios que asegura la retención de talento en una organización?',
+                pregunta: '¿Cuál es el principio fundamental en la gestión de compensación y beneficios que asegura la retención de talento en una organización?',
                 options: [
                     { label: 'a', answer: 'Ofrecer paquetes de beneficios alineados a las prácticas del mercado.', value: 'Junior' },
                     { label: 'b', answer: 'Alinear los paquetes de compensación con las limitaciones presupuestarias de la empresa.', value: 'Mid-Level' },
@@ -727,7 +727,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '2. Si una empresa enfrenta una alta tasa de rotación debido a la insatisfacción con los beneficios actuales, ¿cuál sería tu primer paso para abordar esta situación?',
+                pregunta: 'Si una empresa enfrenta una alta tasa de rotación debido a la insatisfacción con los beneficios actuales, ¿cuál sería tu primer paso para abordar esta situación?',
                 options: [
                     { label: 'a', answer: 'Realizar encuestas a los empleados para identificar sus principales preocupaciones y sugerencias.', value: 'Junior' },
                     { label: 'b', answer: 'Revisar y comparar los paquetes de beneficios actuales con los estándares de la industria.', value: 'Mid-Level' },
@@ -736,7 +736,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '3. Describe una situación en la que tuviste que rediseñar el paquete de beneficios de una empresa. ¿Cuál fue tu enfoque principal?',
+                pregunta: 'Describe una situación en la que tuviste que rediseñar el paquete de beneficios de una empresa. ¿Cuál fue tu enfoque principal?',
                 options: [
                     { label: 'a', answer: 'Agregar beneficios adicionales basados en las sugerencias de los empleados.', value: 'Junior' },
                     { label: 'b', answer: 'Consultar con diferentes departamentos para equilibrar las necesidades de los empleados con las limitaciones presupuestarias.', value: 'Mid-Level' },
@@ -745,7 +745,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '4. ¿Cómo te aseguras de que los paquetes de compensación y beneficios sigan siendo atractivos y competitivos dentro del mercado?',
+                pregunta: '¿Cómo te aseguras de que los paquetes de compensación y beneficios sigan siendo atractivos y competitivos dentro del mercado?',
                 options: [
                     { label: 'a', answer: 'Revisando los paquetes de beneficios una vez al año y haciendo ajustes mínimos según sea necesario.', value: 'Junior' },
                     { label: 'b', answer: 'Comparando regularmente los beneficios de la empresa con los de otras empresas similares en el mercado.', value: 'Mid-Level' },
@@ -760,7 +760,7 @@ const steps = [
         section: 'Tecnología de Recursos Humanos',
         questions: [
             {
-                pregunta: '1. ¿Cuál es uno de los principios más importantes en la utilización de los Sistemas de Información de Recursos Humanos (HRIS) para optimizar los procesos y mejorar la toma de decisiones?',
+                pregunta: '¿Cuál es uno de los principios más importantes en la utilización de los Sistemas de Información de Recursos Humanos (HRIS) para optimizar los procesos y mejorar la toma de decisiones?',
                 options: [
                     { label: 'a', answer: 'Registrar y mantener actualizados los datos de los empleados.', value: 'Junior' },
                     { label: 'b', answer: 'Automatizar los procesos de recursos humanos para reducir errores.', value: 'Mid-Level' },
@@ -769,7 +769,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '2. Si te das cuenta de que el actual sistema de Recursos Humanos no está siendo utilizado de manera efectiva en tu organización, ¿cuál sería tu primer paso para abordar esta situación?',
+                pregunta: 'Si te das cuenta de que el actual sistema de Recursos Humanos no está siendo utilizado de manera efectiva en tu organización, ¿cuál sería tu primer paso para abordar esta situación?',
                 options: [
                     { label: 'a', answer: 'Realizar una sesión de capacitación completa para los usuarios del sistema.', value: 'Junior' },
                     { label: 'b', answer: 'Revisar los procesos actuales y hacer ajustes en cómo estos se llevan en el sistema para mejorar la eficiencia.', value: 'Mid-Level' },
@@ -778,7 +778,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '3. ¿Cuál de estos enunciados describe mejor una experiencia en la que implementaste una mejora significativa en el uso del sistema de Recursos Humanos de tu organización?',
+                pregunta: '¿Cuál de estos enunciados describe mejor una experiencia en la que implementaste una mejora significativa en el uso del sistema de Recursos Humanos de tu organización?',
                 options: [
                     { label: 'a', answer: 'Me aseguré de que todos los empleados tuvieran los accesos adecuados al sistema.', value: 'Junior' },
                     { label: 'b', answer: 'Optimizé un proceso específico, llevándolo de manual a automatizado.', value: 'Mid-Level' },
@@ -787,7 +787,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '4. ¿Cómo evalúas si el sistema de Recursos Humanos de tu organización está cumpliendo con sus objetivos y proporcionando valor?',
+                pregunta: '¿Cómo evalúas si el sistema de Recursos Humanos de tu organización está cumpliendo con sus objetivos y proporcionando valor?',
                 options: [
                     { label: 'a', answer: 'Revisando regularmente los informes generados por el sistema.', value: 'Junior' },
                     { label: 'b', answer: 'Comparando los resultados de los procesos automatizados antes y después de la implementación del sistema de Recursos Humanos.', value: 'Mid-Level' },
@@ -802,7 +802,7 @@ const steps = [
         section: 'Gestión de la Diversidad e Inclusión',
         questions: [
             {
-                pregunta: '1. ¿Qué es lo más importante para garantizar un entorno de trabajo inclusivo y diverso en una organización?',
+                pregunta: '¿Qué es lo más importante para garantizar un entorno de trabajo inclusivo y diverso en una organización?',
                 options: [
                     { label: 'a', answer: 'Implementar políticas de inclusión en los procesos de selección interna y externa.', value: 'Junior' },
                     { label: 'b', answer: 'Realizar capacitaciones regulares sobre diversidad e inclusión para todos los empleados.', value: 'Mid-Level' },
@@ -811,7 +811,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '2. Si observas que la diversidad e inclusión no están siendo adecuadamente gestionadas en tu equipo, ¿cuál sería tu primera acción para abordar esta situación?',
+                pregunta: 'Si observas que la diversidad e inclusión no están siendo adecuadamente gestionadas en tu equipo, ¿cuál sería tu primera acción para abordar esta situación?',
                 options: [
                     { label: 'a', answer: 'Hablar individualmente con los empleados para entender sus preocupaciones.', value: 'Junior' },
                     { label: 'b', answer: 'Organizar sesiones de capacitación sobre diversidad e inclusión para el equipo.', value: 'Mid-Level' },
@@ -820,7 +820,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '3. Ante una situación en la que tuviste que mejorar la diversidad e inclusión en tu equipo. ¿Cuál fue tu enfoque principal?',
+                pregunta: 'Ante una situación en la que tuviste que mejorar la diversidad e inclusión en tu equipo. ¿Cuál fue tu enfoque principal?',
                 options: [
                     { label: 'a', answer: 'Asegurar que todos los empleados conocieran las políticas anti discriminación.', value: 'Junior' },
                     { label: 'b', answer: 'Facilitar talleres de diversidad e inclusión y recolectar retroalimentación de los participantes.', value: 'Mid-Level' },
@@ -829,7 +829,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '4. ¿Cómo te aseguras de que las prácticas de diversidad e inclusión se mantengan efectivas y relevantes en tu equipo?',
+                pregunta: '¿Cómo te aseguras de que las prácticas de diversidad e inclusión se mantengan efectivas y relevantes en tu equipo?',
                 options: [
                     { label: 'a', answer: 'Revisando las políticas de diversidad e inclusión periódicamente.', value: 'Junior' },
                     { label: 'b', answer: 'Realizando encuestas periódicas a los empleados para evaluar el clima laboral.', value: 'Mid-Level' },
@@ -844,7 +844,7 @@ const steps = [
         section: 'Gestión del Cambio',
         questions: [
             {
-                pregunta: '1. ¿Cuál es el principio fundamental en la gestión del cambio que asegura una transición efectiva en una organización?',
+                pregunta: '¿Cuál es el principio fundamental en la gestión del cambio que asegura una transición efectiva en una organización?',
                 options: [
                     { label: 'a', answer: 'Informar oportunamente a los empleados sobre los cambios que se han dado en la organización.', value: 'Junior' },
                     { label: 'b', answer: 'Desarrollar un plan de comunicación detallado y continuo a lo largo del proceso de cambio.', value: 'Mid-Level' },
@@ -853,7 +853,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '2. Si una empresa está a punto de implementar un cambio significativo en sus procesos operativos, ¿cuál sería su primer paso para asegurar una transición efectiva?',
+                pregunta: 'Si una empresa está a punto de implementar un cambio significativo en sus procesos operativos, ¿cuál sería su primer paso para asegurar una transición efectiva?',
                 options: [
                     { label: 'a', answer: 'Informar a todos los empleados sobre los nuevos procesos.', value: 'Junior' },
                     { label: 'b', answer: 'Realizar una reunión inicial con los líderes de cada departamento para explicar el cambio.', value: 'Mid-Level' },
@@ -862,7 +862,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '3. Describe una situación en la que lideraste un cambio organizacional significativo. ¿Cuál fue tu enfoque principal para gestionar la resistencia al cambio?',
+                pregunta: 'Describe una situación en la que lideraste un cambio organizacional significativo. ¿Cuál fue tu enfoque principal para gestionar la resistencia al cambio?',
                 options: [
                     { label: 'a', answer: 'Brindar información a los empleados sobre los beneficios del cambio.', value: 'Junior' },
                     { label: 'b', answer: 'Escuchar las preocupaciones de los empleados y ofrecer apoyo durante la transición.', value: 'Mid-Level' },
@@ -871,7 +871,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '4. ¿Cómo te aseguras de que los cambios implementados en una organización sean sostenibles a largo plazo?',
+                pregunta: '¿Cómo te aseguras de que los cambios implementados en una organización sean sostenibles a largo plazo?',
                 options: [
                     { label: 'a', answer: 'Revisar los resultados después de la implementación del cambio y realizar ajustes.', value: 'Junior' },
                     { label: 'b', answer: 'Realizar encuestas periódicas a los empleados para evaluar la aceptación y efectividad del cambio.', value: 'Mid-Level' },
@@ -886,7 +886,7 @@ const steps = [
         section: 'Coaching',
         questions: [
             {
-                pregunta: '1. ¿Cuál es el principio fundamental del coaching que asegura la maximización del potencial de los individuos?',
+                pregunta: '¿Cuál es el principio fundamental del coaching que asegura la maximización del potencial de los individuos?',
                 options: [
                     { label: 'a', answer: 'Proporcionar a la persona que recibe el coaching retroalimentación regular sobre las áreas de oportunidad y crecimiento.', value: 'Junior' },
                     { label: 'b', answer: 'Establecer metas claras y específicas de mejora y crecimiento junto con quien recibe el coaching.', value: 'Mid-Level' },
@@ -895,7 +895,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '2. En una sesión de coaching, un miembro del equipo expresa que se siente estancado en su desarrollo profesional. ¿Cuál sería tu primer paso para abordar esta situación?',
+                pregunta: 'En una sesión de coaching, un miembro del equipo expresa que se siente estancado en su desarrollo profesional. ¿Cuál sería tu primer paso para abordar esta situación?',
                 options: [
                     { label: 'a', answer: 'Escuchar atentamente y proporcionar algunos consejos prácticos de inmediato.', value: 'Junior' },
                     { label: 'b', answer: 'Ayudar a quien recibe el coaching a identificar y establecer nuevas metas profesionales.', value: 'Mid-Level' },
@@ -904,7 +904,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '3. Describe una situación en la que ayudaste a un equipo a mejorar su rendimiento mediante el coaching. ¿Cuál fue tu enfoque principal?',
+                pregunta: 'Describe una situación en la que ayudaste a un equipo a mejorar su rendimiento mediante el coaching. ¿Cuál fue tu enfoque principal?',
                 options: [
                     { label: 'a', answer: 'Proporcionar retroalimentación regular y constructiva a los miembros del equipo.', value: 'Junior' },
                     { label: 'b', answer: 'Facilitar talleres de desarrollo profesional y establecer metas de equipo.', value: 'Mid-Level' },
@@ -913,7 +913,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '4. ¿Cómo te aseguras de que sus técnicas de coaching sean efectivas y beneficiosas para los coachees?',
+                pregunta: '¿Cómo te aseguras de que sus técnicas de coaching sean efectivas y beneficiosas para los coachees?',
                 options: [
                     { label: 'a', answer: 'Solicitando retroalimentación inmediata después de cada sesión de coaching.', value: 'Junior' },
                     { label: 'b', answer: 'Solicitando retroalimentación de personas clave que interactúan con la persona recibiendo el coaching.', value: 'Mid-Level' },
@@ -928,7 +928,7 @@ const steps = [
         section: 'Diseño y Cumplimiento de Políticas de RRHH',
         questions: [
             {
-                pregunta: '1. ¿Cómo se debe manejar la creación y desarrollo de políticas y procedimientos que regulen el comportamiento y las interacciones de los empleados en una organización?',
+                pregunta: '¿Cómo se debe manejar la creación y desarrollo de políticas y procedimientos que regulen el comportamiento y las interacciones de los empleados en una organización?',
                 options: [
                     { label: 'a', answer: 'Implementando políticas alineadas a las regulaciones laborales locales.', value: 'Junior' },
                     { label: 'b', answer: 'Adaptar las políticas existentes para cumplir con las necesidades específicas de cada departamento.', value: 'Mid-Level' },
@@ -937,7 +937,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '2. Si una nueva política está siendo resistida por los empleados, ¿cuál sería tu primer paso para abordar esta resistencia?',
+                pregunta: 'Si una nueva política está siendo resistida por los empleados, ¿cuál sería tu primer paso para abordar esta resistencia?',
                 options: [
                     { label: 'a', answer: 'Reunirse con los empleados para explicarles la importancia de la nueva política.', value: 'Junior' },
                     { label: 'b', answer: 'Buscar retroalimentación de los empleados para ajustar la política según sus inquietudes.', value: 'Mid-Level' },
@@ -946,7 +946,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '3. ¿Qué acciones tomaste en una experiencia en la que tuviste que desarrollar e implementar una política organizacional importante?',
+                pregunta: '¿Qué acciones tomaste en una experiencia en la que tuviste que desarrollar e implementar una política organizacional importante?',
                 options: [
                     { label: 'a', answer: 'Seguir el modelo estándar de políticas de la empresa y ajustarlo para que encajara con las necesidades de la organización.', value: 'Junior' },
                     { label: 'b', answer: 'Consultar con varios departamentos para asegurarse que la política sea aplicable a todos.', value: 'Mid-Level' },
@@ -955,7 +955,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '4. ¿Cómo aseguras que las políticas y procedimientos implementados sean efectivamente seguidos por los empleados?',
+                pregunta: '¿Cómo aseguras que las políticas y procedimientos implementados sean efectivamente seguidos por los empleados?',
                 options: [
                     { label: 'a', answer: 'Realizando reuniones periódicas para recordar a los empleados las políticas.', value: 'Junior' },
                     { label: 'b', answer: 'Monitoreando los procedimientos y resultados impactados por las políticas.', value: 'Mid-Level' },
@@ -970,7 +970,7 @@ const steps = [
         section: 'Gestión y Análisis de Datos (People Analytics)',
         questions: [
             {
-                pregunta: '1. ¿Cuál es el propósito principal del uso de datos y análisis para mejorar la eficacia de la fuerza laboral?',
+                pregunta: '¿Cuál es el propósito principal del uso de datos y análisis para mejorar la eficacia de la fuerza laboral?',
                 options: [
                     { label: 'a', answer: 'Recopilar todos los datos de los empleados para asegurar que tenemos completo control de sus estadísticas.', value: 'Junior' },
                     { label: 'b', answer: 'Analizar tendencias en la satisfacción laboral y rotación para la toma de decisiones.', value: 'Mid-Level' },
@@ -979,7 +979,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '2. Un análisis de datos revela que el rendimiento de un departamento ha disminuido significativamente en los últimos seis meses. ¿Cuál sería tu primera acción?',
+                pregunta: 'Un análisis de datos revela que el rendimiento de un departamento ha disminuido significativamente en los últimos seis meses. ¿Cuál sería tu primera acción?',
                 options: [
                     { label: 'a', answer: 'Solicitar una reunión con el equipo para discutir las posibles causas del problema.', value: 'Junior' },
                     { label: 'b', answer: 'Revisar los datos históricos del departamento para identificar patrones.', value: 'Mid-Level' },
@@ -988,7 +988,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '3. En una experiencia en la que utilizaste análisis de datos para mejorar el rendimiento de la fuerza laboral. ¿Cuál fue tu enfoque principal?',
+                pregunta: 'En una experiencia en la que utilizaste análisis de datos para mejorar el rendimiento de la fuerza laboral. ¿Cuál fue tu enfoque principal?',
                 options: [
                     { label: 'a', answer: 'Solicitar retroalimentación a los empleados basado en los datos para acordar cómo pueden mejorar.', value: 'Junior' },
                     { label: 'b', answer: 'Presentar los datos a los empleados y sus jefes y juntos identificar problemas de rendimiento y hacer recomendaciones de mejora.', value: 'Mid-Level' },
@@ -997,7 +997,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '4. ¿Cómo te aseguras de que las decisiones basadas en datos sean precisas y efectivas para la gestión del talento?',
+                pregunta: '¿Cómo te aseguras de que las decisiones basadas en datos sean precisas y efectivas para la gestión del talento?',
                 options: [
                     { label: 'a', answer: 'Revisando los datos periódicamente y haciendo ajustes según sea necesario.', value: 'Junior' },
                     { label: 'b', answer: 'Comparando los datos actuales con las métricas de rendimiento estándar de la industria.', value: 'Mid-Level' },
@@ -1012,7 +1012,7 @@ const steps = [
         section: 'Salud y Seguridad Ocupacional',
         questions: [
             {
-                pregunta: '1. ¿Qué acciones hacen que la salud y seguridad ocupacional garantice un entorno de trabajo seguro y saludable?',
+                pregunta: '¿Qué acciones hacen que la salud y seguridad ocupacional garantice un entorno de trabajo seguro y saludable?',
                 options: [
                     { label: 'a', answer: 'El estricto cumplimiento con la legislación, normativas y regulaciones locales de seguridad laboral.', value: 'Junior' },
                     { label: 'b', answer: 'Implementar programas de capacitación regulares para los empleados sobre prácticas de seguridad.', value: 'Mid-Level' },
@@ -1021,7 +1021,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '2. Si identificas un riesgo de seguridad en el lugar de trabajo, ¿cuál sería tu primer paso para abordar esta situación?',
+                pregunta: 'Si identificas un riesgo de seguridad en el lugar de trabajo, ¿cuál sería tu primer paso para abordar esta situación?',
                 options: [
                     { label: 'a', answer: 'Informar inmediatamente al supervisor sobre el riesgo identificado para que tome acción.', value: 'Junior' },
                     { label: 'b', answer: 'Realizar una evaluación preliminar del riesgo y proponer medidas temporales de control.', value: 'Mid-Level' },
@@ -1030,7 +1030,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '3. En una experiencia en la que tuviste que mejorar las prácticas de seguridad en tu lugar de trabajo. ¿Cuál fue tu enfoque principal?',
+                pregunta: 'En una experiencia en la que tuviste que mejorar las prácticas de seguridad en tu lugar de trabajo. ¿Cuál fue tu enfoque principal?',
                 options: [
                     { label: 'a', answer: 'Aumentar la frecuencia de los recordatorios y comunicación sobre las prácticas de seguridad.', value: 'Junior' },
                     { label: 'b', answer: 'Organizar sesiones de capacitación y concienciación para los empleados sobre la importancia de la seguridad.', value: 'Mid-Level' },
@@ -1039,7 +1039,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '4. ¿Cómo te aseguras de que las prácticas de salud y seguridad ocupacional sean efectivas y se mantengan actualizadas en tu equipo?',
+                pregunta: '¿Cómo te aseguras de que las prácticas de salud y seguridad ocupacional sean efectivas y se mantengan actualizadas en tu equipo?',
                 options: [
                     { label: 'a', answer: 'Revisando y actualizando las políticas de seguridad periódicamente.', value: 'Junior' },
                     { label: 'b', answer: 'Realizando auditorías de seguridad internas y externas regularmente.', value: 'Mid-Level' },
@@ -1054,7 +1054,7 @@ const steps = [
         section: 'Desarrollo Organizacional',
         questions: [
             {
-                pregunta: '1. ¿Cuál es el principio fundamental en el desarrollo organizacional que asegura la adaptación a los desafíos externos e internos?',
+                pregunta: '¿Cuál es el principio fundamental en el desarrollo organizacional que asegura la adaptación a los desafíos externos e internos?',
                 options: [
                     { label: 'a', answer: 'Tener claro y visible el organigrama de la empresa para que todos estén alineados sobre las estructuras de reporte y responsabilidades.', value: 'Junior' },
                     { label: 'b', answer: 'Revisar y ajustar la estructura organizacional según las necesidades del negocio.', value: 'Mid-Level' },
@@ -1063,7 +1063,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '2. Si una organización enfrenta problemas de comunicación interna que afectan tu efectividad, ¿cuál sería tu primer paso para abordar esta situación?',
+                pregunta: 'Si una organización enfrenta problemas de comunicación interna que afectan tu efectividad, ¿cuál sería tu primer paso para abordar esta situación?',
                 options: [
                     { label: 'a', answer: 'Programar reuniones periódicas con los jefes de departamento para discutir problemas de comunicación.', value: 'Junior' },
                     { label: 'b', answer: 'Realizar una encuesta interna para identificar los principales problemas de comunicación.', value: 'Mid-Level' },
@@ -1072,7 +1072,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '3. Describa una situación en la que tuviste que liderar un cambio organizacional significativo. ¿Cuál fue tu enfoque principal?',
+                pregunta: 'Describa una situación en la que tuviste que liderar un cambio organizacional significativo. ¿Cuál fue tu enfoque principal?',
                 options: [
                     { label: 'a', answer: 'Informar a los empleados sobre los cambios planeados y pedir su cooperación.', value: 'Junior' },
                     { label: 'b', answer: 'Involucrar a los líderes de departamento en la planificación y ejecución del cambio.', value: 'Mid-Level' },
@@ -1081,7 +1081,7 @@ const steps = [
                 ]
             },
             {
-                pregunta: '4. ¿Cómo te aseguras de que los cambios organizacionales implementados tienen el impacto que se espera en la estrategia y los resultados?',
+                pregunta: '¿Cómo te aseguras de que los cambios organizacionales implementados tienen el impacto que se espera en la estrategia y los resultados?',
                 options: [
                     { label: 'a', answer: 'Solicitando retroalimentación de los empleados después de implementar los cambios.', value: 'Junior' },
                     { label: 'b', answer: 'Creando programas a partir de la retroalimentación de los departamentos y de las áreas de mayor interés y repercusión.', value: 'Mid-Level' },
